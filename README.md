@@ -68,7 +68,8 @@ Developed by: RegisterNumber:24901168
 
 **Output/TIMING Waveform**
 
-![Screenshot (58)](https://github.com/user-attachments/assets/b4ab1157-2390-4fdc-b9e9-e70bdc24edeb)
+![image](https://github.com/user-attachments/assets/77ba62cd-bb6f-4f9b-93b1-c025b297ce8b)
+
 
 **Result:**
 Thus the half adder are studied and the output is verified.
